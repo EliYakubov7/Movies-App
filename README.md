@@ -8,7 +8,7 @@ The app is built with the Model-View-ViewModel (MVVM) is its structural design p
 - View models transform model information into values that can be displayed on a view. They’re usually classes, so they can be passed around as references.
 
 ## Setup Requirements
-
+https://github.com/EliYakubov7/Movies-App/blob/main/README.md
 Obtain your key from TMDB API and replace it in the Constants file:
 
 API_KEY = "API_KEY_VALUE"
@@ -21,7 +21,7 @@ Kotlin - Kotlin is a programming language that can run on JVM. Google has announ
 
 **Jetpack Compose** - Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
 
-- <u>Android KTX</u> - Android KTX is a set of Kotlin extensions that are included with Android Jetpack and other Android libraries. KTX extensions provide concise, idiomatic Kotlin to Jetpack, Android platform, and other APIs.
+- Android KTX - Android KTX is a set of Kotlin extensions that are included with Android Jetpack and other Android libraries. KTX extensions provide concise, idiomatic Kotlin to Jetpack, Android platform, and other APIs.
 
 - AndroidX - Major improvement to the original Android Support Library, which is no longer maintained.
 
