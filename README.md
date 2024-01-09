@@ -8,7 +8,6 @@ The app is built with the Model-View-ViewModel (MVVM) is its structural design p
 - View models transform model information into values that can be displayed on a view. They’re usually classes, so they can be passed around as references.
 
 ## Setup Requirements
-https://github.com/EliYakubov7/Movies-App/blob/main/README.md
 Obtain your key from TMDB API and replace it in the Constants file:
 
 API_KEY = "API_KEY_VALUE"
