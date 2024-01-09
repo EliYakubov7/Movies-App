@@ -4,7 +4,7 @@
 
 ### Search Screen
 
-<img src="https://github.com/EliYakubov7/Movies-App/blob/main/screenshots/search_screen.png" width="250">
+<img src="https://github.com/EliYakubov7/Movies-App/blob/main/screenshots/search_screen.jpg" width="250">
 
 ### Details Screen 
 
@@ -12,4 +12,4 @@
 
 ### Favorites Screen 
 
-<img src="https://github.com/EliYakubov7/Movies-App/blob/main/screenshots/favorites_screen.png" width="250">
+<img src="https://github.com/EliYakubov7/Movies-App/blob/main/screenshots/favorites_screen.jpg" width="250">
