@@ -19,7 +19,7 @@ Kotlin - Kotlin is a programming language that can run on JVM. Google has announ
 
 ### Jetpack components
 
-###Jetpack Compose### - Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
+**Jetpack Compose** - Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
 
 - Android KTX - Android KTX is a set of Kotlin extensions that are included with Android Jetpack and other Android libraries. KTX extensions provide concise, idiomatic Kotlin to Jetpack, Android platform, and other APIs.
 
@@ -35,23 +35,23 @@ Kotlin - Kotlin is a programming language that can run on JVM. Google has announ
 
 - Room database - The Room persistence library provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite. 
 
-Kotlin Coroutines - A concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
+**Kotlin Coroutines** - A concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
 
-Retrofit - Retrofit is a REST client for Java/ Kotlin and Android by Square inc under Apache 2.0 license. Its a simple network library that is used for network transactions. By using this library we can seamlessly capture JSON response from web service/web API.
+**Retrofit** - Retrofit is a REST client for Java/ Kotlin and Android by Square inc under Apache 2.0 license. Its a simple network library that is used for network transactions. By using this library we can seamlessly capture JSON response from web service/web API.
 
-GSON - JSON Parser,used to parse requests on the data layer for Entities and understands Kotlin non-nullable and default parameters.
+**GSON** - JSON Parser,used to parse requests on the data layer for Entities and understands Kotlin non-nullable and default parameters.
 
-Kotlin Flow - In coroutines, a flow is a type that can emit multiple values sequentially, as opposed to suspend functions that return only a single value.
+**Kotlin Flow** - In coroutines, a flow is a type that can emit multiple values sequentially, as opposed to suspend functions that return only a single value.
 
-Dagger Hilt - A dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.
+**Dagger Hilt** - A dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.
 
-Ramcosta Navigation Library - A KSP library that processes annotations and generates code that uses Official Jetpack Compose Navigation under the hood. It hides the complex, non-type-safe and boilerplate code you would have to write otherwise.
+**Ramcosta Navigation Library** - A KSP library that processes annotations and generates code that uses Official Jetpack Compose Navigation under the hood. It hides the complex, non-type-safe and boilerplate code you would have to write otherwise.
 
-Logging Interceptor - logs HTTP request and response data.
+**Logging Interceptor** - logs HTTP request and response data.
 
-Coil- An image loading library for Android backed by Kotlin Coroutines.
+**Coil** - An image loading library for Android backed by Kotlin Coroutines.
 
-Timber- A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+**Timber** - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
 ### Home Screen
 
