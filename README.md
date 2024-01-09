@@ -67,3 +67,7 @@ Kotlin - Kotlin is a programming language that can run on JVM. Google has announ
 ### Favorites Screen 
 
 <img src="https://github.com/EliYakubov7/Movies-App/blob/main/screenshots/favorites_screen.jpg" width="250">
+
+## Author
+
+* **Eliyahu Yakubov** - *Initial work* - [Github](https://github.com/EliYakubov7), [Linkedin](https://www.linkedin.com/in/eli-yakubov-961908173)
